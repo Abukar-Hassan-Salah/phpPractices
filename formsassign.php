@@ -5,6 +5,14 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
+    */1Create a form (in html page) which allows the user to collect for student information, 
+the form needs to contain these sections such as Personal Information, Parent 
+Information, and Academic Information. 
+ Personal Information needs to include at least Name, Place of Birth, Date of 
+Birth, Address, Sex, Telephone, Email, and Profile Image. 
+ Parent Information needs to include at least Name, Telephone, Relationship.  
+ Academic Information needs to include at least ID, Faculty, Department, Class, 
+and Registration Date./*
   <div class="container">
     <h2>Student Information Form</h2>
     <form id="studentForm" action="submit.php" method="post" enctype="multipart/form-data">
